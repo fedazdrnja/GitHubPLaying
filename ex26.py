@@ -85,3 +85,4 @@ print_first_and_last(sentence)
 print_first_and_last_sorted(sentence)
 
 #k dan verander ik dit, en wat gebeurt er dan
+verander ik het weer
